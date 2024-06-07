@@ -1,0 +1,30 @@
+Kann ich bitte eine Speisekarte haben?;Posso avere un menù, per favore?
+Kannst du ein Foto für uns machen?;Puoi scattare una foto per noi?
+Kann ich mit Kreditkarte bezahlen?;Posso pagare con la carta di credito?
+Können Sie mir sagen, wo der Bahnhof ist?;Può dirmi dove si trova la stazione?
+Können wir früh einchecken?;Possiamo fare il check-in presto?
+Kannst du ein gutes Restaurant empfehlen?;Puoi suggerire un buon ristorante?
+Darf ich die Toilette benutzen?;Posso usare il bagno?
+Könnten Sie bitte mehr Handtücher bringen?;Può portare più asciugamani, per favore?
+Können wir hier eine Pause machen?;Possiamo fare una pausa qui?
+Kann ich bitte die Rechnung haben?;Posso avere il conto, per favore?
+Ich möchte das Museum besuchen.;Voglio visitare il museo.
+Willst du morgen an den Strand gehen?;Vuoi andare alla spiaggia domani?
+Wir wollen einen Tisch für heute Abend reservieren.;Vogliamo prenotare un tavolo per stasera.
+Möchtest du diese lokale Spezialität probieren?;Vuoi provare questa specialità locale?
+Ich möchte Souvenirs kaufen.;Voglio comprare dei souvenir.
+Möchtest du einen Reiseführer?;Vuoi una guida turistica?
+Wir wollen eine Wanderung machen.;Vogliamo fare un’escursione.
+Möchtest du an der Weinprobe teilnehmen?;Vuoi partecipare alla degustazione di vini?
+Ich möchte den Sonnenuntergang vom Meer aus sehen.;Voglio vedere il tramonto dal mare.
+Möchtest du ein Fahrrad mieten?;Vuoi noleggiare una bicicletta?
+Ich muss Geld wechseln.;Devo cambiare soldi.
+Du musst den Reisepass vorzeigen.;Devi mostrare il passaporto.
+Wir müssen morgen früh losfahren.;Dobbiamo partire presto domani.
+Du musst diese Pizza probieren, sie ist großartig!;Devi provare questa pizza, è ottima!
+Ich muss die Buchung bestätigen.;Devo confermare la prenotazione.
+Du musst in diesem Museum eine Maske tragen.;Devi indossare una maschera in questo museo.
+Wir müssen die Strandregeln beachten.;Dobbiamo rispettare le regole della spiaggia.
+Ich muss ein Busticket kaufen.;Devo comprare un biglietto per l'autobus.
+Du musst aufpassen, wenn du die Straße überquerst.;Devi fare attenzione quando attraversi la strada.
+Wir müssen den Fahrplan des Zuges überprüfen.;Dobbiamo controllare l'orario del treno.
